@@ -1,11 +1,11 @@
 {
-    "name": "Flutter Games",
-    "short_name": "Flutter Games",
+    "name": "GameShelf",
+    "short_name": "GameShelf",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Flutter app for purchasing and renting games.",
+    "description": "GameShelf - an app for purchasing and renting games.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -1,5 +1,5 @@
-name: flutter_games
-description: Flutter app for purchasing and renting games.
+name: game_shelf
+description: GameShelf - an app for purchasing and renting games. Powered by SadSha.
 publish_to: 'none'
 version: 1.0.0
 

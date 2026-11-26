@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_games/pages/coming_soon_page.dart';
-import 'package:flutter_games/pages/games_page.dart';
-import 'package:flutter_games/pages/movies_page.dart';
+import 'package:game_shelf/pages/coming_soon_page.dart';
+import 'package:game_shelf/pages/games_page.dart';
+import 'package:game_shelf/pages/movies_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_games/pages/home.dart';
-import 'package:flutter_games/themes.dart';
+import 'package:game_shelf/pages/home.dart';
+import 'package:game_shelf/themes.dart';
 
 void main() {
-  runApp(const FlutterGames());
+  runApp(const GameShelf());
 }
 
-class FlutterGames extends StatelessWidget {
-  const FlutterGames({super.key});
+class GameShelf extends StatelessWidget {
+  const GameShelf({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Games',
+      title: 'GameShelf',
       theme: lightTheme,
       darkTheme: darkTheme,
       home: const HomePage(),

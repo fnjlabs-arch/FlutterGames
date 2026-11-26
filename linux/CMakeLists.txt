@@ -1,13 +1,13 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.13)
-project(flutter_games LANGUAGES CXX)
+project(game_shelf LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "flutter_games")
+set(BINARY_NAME "game_shelf")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
-set(APPLICATION_ID "com.fluttergames.flutter_games")
+set(APPLICATION_ID "com.gameshelf.app")
 
 # Explicitly opt into modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

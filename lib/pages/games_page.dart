@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_games/models/game.dart';
-import 'package:flutter_games/widgets/game_card.dart';
+import 'package:game_shelf/models/game.dart';
+import 'package:game_shelf/widgets/game_card.dart';
 
 class GamesPage extends StatelessWidget {
   const GamesPage({super.key});

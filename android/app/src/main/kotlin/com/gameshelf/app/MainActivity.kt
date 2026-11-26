@@ -1,4 +1,4 @@
-package com.fluttergames.flutter_games
+package com.gameshelf.app
 
 import io.flutter.embedding.android.FlutterActivity
 

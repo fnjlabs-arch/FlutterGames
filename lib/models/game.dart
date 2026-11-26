@@ -1,4 +1,4 @@
-import 'package:flutter_games/utils/dummy_data.dart';
+import 'package:game_shelf/utils/dummy_data.dart';
 
 class Game {
   final String title;
